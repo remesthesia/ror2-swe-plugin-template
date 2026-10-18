@@ -10,7 +10,7 @@
 			https://nuget.bepinex.dev/v3/index.json
 		</RestoreAdditionalProjectSources>
 
-        <RootNamespace>SwE</RootNamespace>
+        <RootNamespace>Template</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>
